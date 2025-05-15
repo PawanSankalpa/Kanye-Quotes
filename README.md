@@ -34,14 +34,14 @@ python main.py
 *Then click on Kanye’s face to see what he has to say.*
 
 ## Skills
-**GUI development with Tkinter**
-**REST API integration**
-**Event-driven programming**
-**Image handling in Python GUIs**
+- **GUI development with Tkinter**
+- **REST API integration**
+- **Event-driven programming**
+- **Image handling in Python GUIs**
 
 ### Screenshots
-![screenshot1](screenshot1.png)
+![screenshot3.png](screenshot3.png)
 -------------------------------
-![screenshot2](screenshot2.png)
+![screenshot4.png](screenshot4.png)
 
 
